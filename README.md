@@ -19,5 +19,5 @@ Instructions :
 1) Make sure the Hybrid Systems Simulation Toolbox is on your Matlab path.
 2) Choose a simulation folder among
 	- HG_vwab : assumes the output is available at all times and implements a high-gain observer during flow to estimate the state and the parameters a,b.
-	- Discrete_vwd : assumes the output is available at all times and implements a jump-based hybris observer to estimate the state and the parameter c.
+	- Discrete_vwd : assumes the output is available at all times and implements a jump-based hybrid observer to estimate the state and the parameter c.
 3) Run main.m.
